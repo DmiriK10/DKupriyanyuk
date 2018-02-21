@@ -1,6 +1,7 @@
 /**
  *Class Calculate решение задачи части 001 урок 1.
- *@author DEKupriyanyuk
+ *@author DKupriyanyuk
+ *@version $ld$
  *@since 08.01.2018
  */
 package ru.job4j;
